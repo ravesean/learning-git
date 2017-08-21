@@ -1,3 +1,2 @@
 this is second file of first commit
 second line
-third line
